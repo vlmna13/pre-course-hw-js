@@ -7,7 +7,6 @@ switch (true) {
      console.log("У меня 100 пудов все получится");
      break;
     case rule.length === 25:
-     conaole.log("50 на 50")
-   default:
-    rule;
+     console.log("50 на 50")
+     break;
    }
